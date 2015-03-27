@@ -1,0 +1,11 @@
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\MainWindow.baml
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\App.g.cs
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics_MarkupCompile.cache
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.g.resources
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.Properties.Resources.resources
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.csproj.GenerateResource.Cache
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\bin\Debug\aeronautics.exe
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\bin\Debug\aeronautics.pdb
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.exe
+C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.pdb
