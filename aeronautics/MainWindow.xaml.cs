@@ -25,7 +25,14 @@ namespace aeronautics
 
             Player player = new Player();
 
-            Console.WriteLine("Starting from Here");
+            Debug.Text = "Starting from Here";
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            Debug.Text = "choice Clicked";
+            sender.ToString();
+        }
+
     }
 }
