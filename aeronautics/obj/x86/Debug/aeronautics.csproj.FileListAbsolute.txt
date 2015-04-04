@@ -9,3 +9,36 @@ C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\bin\Debug\aeronautics.ex
 C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\bin\Debug\aeronautics.pdb
 C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.exe
 C:\Users\jess\Desktop\Jake Work\aeronautics\aeronautics\obj\x86\Debug\aeronautics.pdb
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.exe
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.pdb
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\bin\Debug\aeronautics.exe
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\bin\Debug\aeronautics.pdb
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.baml
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.g.cs
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\App.g.cs
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics_MarkupCompile.cache
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.g.resources
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.Properties.Resources.resources
+C:\Users\GMFMR\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.csproj.GenerateResource.Cache
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.exe
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.pdb
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\bin\Debug\aeronautics.exe
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\bin\Debug\aeronautics.pdb
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.baml
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.g.cs
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\App.g.cs
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics_MarkupCompile.cache
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.g.resources
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.Properties.Resources.resources
+C:\Users\jess\Desktop\Games\images\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.csproj.GenerateResource.Cache
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.exe
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.pdb
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\bin\Debug\aeronautics.exe
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\bin\Debug\aeronautics.pdb
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.baml
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\MainWindow.g.cs
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\App.g.cs
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics_MarkupCompile.cache
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.g.resources
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.Properties.Resources.resources
+C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.csproj.GenerateResource.Cache
