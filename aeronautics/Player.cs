@@ -25,6 +25,7 @@ namespace aeronautics
         }
         public int HashTableGetCount()
         {
+            //Here is my comment.
             return PlayerHashtable.Count;
         }
         public string HashTableGetText(int index)

@@ -42,3 +42,5 @@ C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronauti
 C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.g.resources
 C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.Properties.Resources.resources
 C:\Users\myerss12\Desktop\aeronautics-master\aeronautics\obj\x86\Debug\aeronautics.csproj.GenerateResource.Cache
+C:\Users\GMFMR\Desktop\EmptyFolder\aeronautics\aeronautics\obj\x86\Debug\aeronautics.exe
+C:\Users\GMFMR\Desktop\EmptyFolder\aeronautics\aeronautics\obj\x86\Debug\aeronautics.pdb
