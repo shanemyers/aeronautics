@@ -8,12 +8,10 @@ namespace aeronautics
 {
     class Player
     {
-        // Initilization Section
         Hashtable PlayerHashtable = new Hashtable();
         List<InventoryObject> PlayerInventory = new List<InventoryObject>();
 
-
-
+        
 
         /// <summary>
         /// HashTable Methods
@@ -26,6 +24,15 @@ namespace aeronautics
         public int HashTableGetCount()
         {
             return PlayerHashtable.Count;
+        }
+        public void HashTableClear()
+        {
+            for (int i = 0; i < HashTableGetCount(); i++)
+            {
+                PlayerHashtable.Remove(i);
+            }
+
+            PlayerHashtable = new Hashtable();
         }
         public string HashTableGetText(int index)
         {
@@ -47,12 +54,23 @@ namespace aeronautics
         {
             PlayerInventory.Remove(x);
         }
-        public void checkInventoryObject(int index)
+        public int inventoryObjectCount()
         {
-            PlayerInventory[index].ToString();
+            return PlayerInventory.Count();
         }
-
-        // TO ADD: Tree Path hashtable checks
+        public void removeInventoryAll()
+        {
+            for (int i = 0; i < PlayerInventory.Count; i++)
+            {
+                PlayerInventory.Remove(PlayerInventory[i]);
+            }
+        }
+        public int checkInventoryObject(int index)
+        {
+            return PlayerInventory[index].GetObjectID();
+        }
+        // TO ADD: Tree Path hashtable
+        // TO ADD: Inventory array
     }
 
     class InventoryObject
@@ -68,6 +86,11 @@ namespace aeronautics
         public void SetObjectID(int x)
         {
             ObjectID = x;
+        }
+        public int GetObjectID()
+        {
+            return ObjectID;
+
         }
     }
 }
